@@ -70,7 +70,7 @@
    
 }
 
-#AppAcademy{
+.AppAcademy{
     color: black;   
     text-decoration: activeborder;
 }
@@ -88,7 +88,7 @@
    
      padding-left: 500px;
 }
-#words{
+.words{
     padding-left: 460px;
 }
 
@@ -123,13 +123,18 @@ p{
 
 .projects_picture{
     width:244px;
-    height:115px;
-    padding-top:61px;
+    height:114px;
+    padding-top:63px;
 }
 
 
 #eminem{
     padding-left: 500px
 }
-
+.Titletech3{
+   
+     padding-left: 550px;
+     width:200px;
+    height:300px;
+}
 
