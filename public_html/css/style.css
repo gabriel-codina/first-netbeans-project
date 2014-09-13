@@ -4,24 +4,26 @@
 }
 
 .otherbody{
-    background-image:url('../images/other pages.png');
+    background-image:url('http://hdwallpapersly.com/wp-content/uploads/2014/08/Picture-Desert-Wallpaper.jpg');
     background-color:darkgrey;
 }
 
 #other_body{
     background-color:darkgrey;
-      background-image:url('../images/other_pages.png');
+      background-image:url('http://imgstocks.com/wp-content/uploads/2013/09/Beach-wallpaper-wallpapers-land.jpg');
 }
 #aboutme-aboutme{
     color: black;
     text-decoration: none;
     padding-left: 400px;
+    padding-bottom: 0px;
 }
 
 #aboutme-projects{
     color: black;
     text-decoration: none;
     padding-left: 45px;
+    padding-bottom: 0px;
 }
 
 #projects-aboutme{
@@ -34,6 +36,7 @@
     color: black;   
     text-decoration: none;
     padding-left: 45px;
+    padding-bottom: 0px;
 }
 
 #aboutme-tech{
@@ -104,9 +107,6 @@ h2{
   padding-left: 400px;  
 }
 
-img{
-    padding-left: 400px;
-}
 
 p{
     padding-left: 400px;
@@ -125,6 +125,8 @@ p{
     width:244px;
     height:114px;
     padding-top:63px;
+    padding-left: 400px;
+    padding-right: 0px;
 }
 
 
@@ -136,5 +138,54 @@ p{
      padding-left: 550px;
      width:200px;
     height:300px;
+}
+
+#gunfit{
+      width:auto;
+    height:250px;
+    padding-left:150px;
+    padding-right:0;
+}
+
+#blackopz{
+
+padding-left: 0px;
+}
+
+#header2{
+    padding-bottom: 0px;
+}
+
+#gunfit1{
+    padding-right:0;
+}
+
+#crackscreen{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top:0px;
+    width:244px;
+    height:114px;
+}
+
+#text{
+    padding-right: 0px;
+}
+
+#zlogo{
+    height: 150px;
+    width: auto;
+}
+
+#jlogo{
+    height: 150px;
+    width: auto;
+    padding-left: 450px;
+}
+
+#pap{
+    height: 150px;
+    width: auto;
+    padding-left: 390px;
 }
 
